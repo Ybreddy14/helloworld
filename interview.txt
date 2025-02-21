@@ -1,0 +1,5 @@
+ECS
+RDS
+farget
+Iam roles & polices
+S3 bucket
